@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "fullName": "Leanne Graham",
+    "address": "Kulas Light",
+    "company":"Romaguera-Crona", 
+    "phoneNumber": "1-770-736-8031 ",
+    "email": "Sincere@april.biz"
+  },
+  {
+    "id": 2,
+    "fullName": "Ervin Howell",
+    "address": "Victor Plains Suite 879",
+    "company":"Deckow-Crist", 
+    "phoneNumber": "010-692-6593",
+    "email": "Shanna@melissa.tv"
+  },
+  {
+    "id": 3,
+    "fullName": "Clementine Bauch",
+    "address": "Suite 847 McKenziehaven ",
+    "company":"Romaguera-Jacobson", 
+    "phoneNumber": "1-463-123-4447",
+    "email": "Nathan@yesenia.net"
+  },
+  {
+    "id": 4,
+    "fullName": "Patricia Lebsack",
+    "address": "Hoeger Mall Apt 692",
+    "company":"Robel-Corkery", 
+    "phoneNumber": "493-170-9623 ",
+    "email": "Julianne.OConner@kory.org"
+  },
+  {
+    "id": 5,
+    "fullName": "Chelsey Dietrich",
+    "address": "Skiles Walks 351",
+    "company":"Keebler LLC", 
+    "phoneNumber": "1-477-935-8478",
+    "email": "Karley_Dach@jasper.info"
+  }
+]
